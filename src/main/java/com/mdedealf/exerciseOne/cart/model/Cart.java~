@@ -1,0 +1,4 @@
+package com.mdedealf.exerciseOne.cart.model;
+
+public class Cart {
+}
