@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class CartController {
 
     @GetMapping
-    public String getCart() {
-        return "Carts datas empty";
+    public String getAllCarts() {
+        return "Carts data's empty";
     }
 }
