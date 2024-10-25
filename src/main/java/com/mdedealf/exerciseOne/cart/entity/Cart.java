@@ -1,6 +1,6 @@
-package com.mdedealf.exerciseOne.cart.model;
+package com.mdedealf.exerciseOne.cart.entity;
 
-import com.mdedealf.exerciseOne.products.model.Product;
+import com.mdedealf.exerciseOne.products.entity.Product;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

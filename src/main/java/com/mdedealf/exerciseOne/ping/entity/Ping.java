@@ -1,4 +1,4 @@
-package com.mdedealf.exerciseOne.ping.model;
+package com.mdedealf.exerciseOne.ping.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

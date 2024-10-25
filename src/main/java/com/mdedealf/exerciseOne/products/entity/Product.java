@@ -1,4 +1,4 @@
-package com.mdedealf.exerciseOne.products.model;
+package com.mdedealf.exerciseOne.products.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
