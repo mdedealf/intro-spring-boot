@@ -1,6 +1,6 @@
 package com.mdedealf.exerciseOne.products.controller;
 
-import com.mdedealf.exerciseOne.products.model.Product;
+import com.mdedealf.exerciseOne.products.entity.Product;
 import com.mdedealf.exerciseOne.products.service.ProductService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

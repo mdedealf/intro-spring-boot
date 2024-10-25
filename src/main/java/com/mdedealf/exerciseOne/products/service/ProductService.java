@@ -1,6 +1,6 @@
 package com.mdedealf.exerciseOne.products.service;
 
-import com.mdedealf.exerciseOne.products.model.Product;
+import com.mdedealf.exerciseOne.products.entity.Product;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
